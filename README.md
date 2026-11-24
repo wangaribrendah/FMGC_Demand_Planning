@@ -59,4 +59,3 @@ This project forecasts how many units of each product a supermarket-type busines
 - Try more advanced models and tune them further.
 - Test the forecast on more time periods and more products.
 - Build a simple dashboard to compare forecast and actual sales.
-- Share the project on GitHub with a clear folder structure.
